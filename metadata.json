@@ -1,0 +1,8 @@
+{
+    "id": "dplace-dataset-gmted2010",
+    "title": "D-PLACE dataset derived from 'Global Multi-resolution Terrain Elevation Data 2010'",
+    "description": "Global Multi-resolution Terrain Elevation Data 2010",
+    "license": "CC-BY-NC-4.0",
+    "url": "https://doi.org/10.5066/F7J38R2N",
+    "citation": "Global Multi-resolution Terrain Elevation Data courtesy of the U.S. Geological Survey (Downloaded 14 Jul 2014)"
+}
